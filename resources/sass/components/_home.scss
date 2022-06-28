@@ -1,0 +1,52 @@
+.home{
+  background: url('/img/home/background-s.jpg') no-repeat,white;
+  background-size:cover;
+}
+
+.home__container{
+  margin: 350px auto 220px auto;
+  text-align: center;
+}
+
+.home img{
+  height: 300px;
+}
+
+.home h1{
+  display: none;
+}
+
+.home h2{
+  margin-top: 110px;
+}
+
+.home__container div{
+  font-size: 1.5rem;
+  margin-top: 110px;
+  text-align: justify;
+}
+
+@media #{$breakpoints-medium} {
+  
+.home{
+  background: url('/img/home/background.jpg') no-repeat,white;
+  background-size:cover;
+}
+
+.home__container div{
+  font-size: 28px;
+  text-align: center;
+}
+
+}
+
+@media #{$breakpoints-large} {
+
+
+
+}
+
+
+@media #{$breakpoints-xlarge} {
+
+}

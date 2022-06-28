@@ -1,0 +1,168 @@
+
+
+.navabar__normal{
+  display: flex;
+  justify-content: space-between;
+  padding:50px;
+  width:90vw;
+  overflow:hidden;
+
+  align-items: center !important;
+  height: 0 !important;
+  position: absolute !important;
+  opacity:0 !important;
+  pointer-events:none !important;
+}
+
+.navbar__normal{
+}
+
+.navabar__normal__left img{
+  margin-left: 100px;
+  height: 50px;
+}
+
+.navabar__normal__right{
+  display:flex;
+  align-items:center;
+}
+
+.navabar__normal__right li{
+  display:inline;
+  margin-right: 20px;
+}
+
+.navabar__normal__right a, .navbar__mobile__menu a{
+  opacity:1;
+  transition: opacity .2s;
+}
+
+.navabar__normal__right a:hover, .navbar__mobile__menu a:hover{
+  color: white;
+  text-decoration:none;
+  opacity:.6;
+}
+
+
+
+.navbar__mobile{
+  height:100vh;
+  width:100vw;
+
+  position:absolute;
+  overflow:hidden;
+}
+
+.navbar__mobile__header{
+  background:$ocre;
+  height:75px;
+  padding: 20px;
+
+  display:flex;
+  position:absolute;
+  width:100vw;
+  justify-content:space-between;
+}
+
+.navbar__mobile button{
+  background:transparent;
+  border:0;
+}
+
+.navbar__mobile__icon{
+  width:50%;
+
+  display: flex;
+  align-items: center;
+}
+
+.navbar__mobile .icon{
+  fill:white;
+  height: 30px;
+}
+
+.navbar__mobile img{
+  transform: translateX(-50%);
+  width:30px;
+}
+
+.navbar__mobile__menu{
+  background-color: $ocre;
+  height:100vh;
+  width:100%;
+  left: 100vw;
+  top: 0;
+
+  opacity:0;
+  position: absolute;
+
+  transition: all .2s;
+}
+
+.navbar__mobile__menu.show{
+  left:0;
+  opacity:1;
+}
+
+.navbar__mobile__menu button{
+
+}
+
+.navbar__mobile__menu nav{
+  font-size: 1.8rem;
+  margin:87px 0 0 30px;
+}
+
+.navbar__mobile__menu li{
+  margin-bottom: 25px;
+
+  list-style: none;
+}
+
+@media #{$breakpoints-medium} {
+
+.navbar__mobile__header{
+  height:150px;
+}
+
+.navbar__mobile .icon{
+  height: 45px;
+}
+
+.navbar__mobile img{
+  width:45px;
+}
+
+.navbar__mobile__menu nav{
+  font-size: 3rem;
+  margin:161px 0 0 30px;
+}
+
+}
+
+@media #{$breakpoints-large} {
+
+.navabar__normal{
+  display: flex;
+  justify-content: space-between;
+  padding:50px;
+
+  height: 0 !important;
+  position: absolute !important;
+  opacity:1 !important;
+  pointer-events:initial !important;
+}
+
+.navbar__mobile{
+  height: 0;
+  position: absolute;
+  opacity:0;
+  pointer-events:none;
+}
+
+}
+
+
+@media #{$breakpoints-xlarge} {
+
+}

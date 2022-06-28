@@ -1,0 +1,70 @@
+
+//variables
+
+@import 'variables/colors';
+@import 'variables/breakpoints';
+@import 'variables/typography';
+
+
+//layouts
+
+@import 'layout/head';
+
+//components
+
+@import 'components/navbar';
+@import 'components/home';
+@import 'components/trabajos';
+@import 'components/artistas';
+@import 'components/contacto';
+@import 'components/footer';
+
+
+body{
+  background: black;
+  color: white;
+  font-family: $font-corporative;
+}
+
+section{
+  border:0;
+  padding: 50px 0 50px 0;
+  max-width:100vw;
+  overflow: hidden;
+}
+
+a{
+  color:white;
+  text-decoration:none;
+  opacity:1;
+  transition: all .2s;
+}
+
+a:hover{
+  color:white;
+  text-decoration:none;
+  opacity: .6;
+}
+
+li{
+  list-style: none;
+}
+
+.myContainer{
+  margin: auto;
+  max-width: 1200px;
+  width: 100%;
+}
+
+.btn{
+  border-color: white;
+  border-radius:4px;
+  background-color: transparent;
+  color:white;
+  transition: all .2s;
+}
+
+.btn:hover{
+  background-color: white;
+  color:$ocre;
+}
