@@ -44,6 +44,25 @@
         <img src="img/trabajos/marek/3.jpg" data-aos="fade-up" data-aos-delay="200"/>
         <img src="img/trabajos/marek/4.jpg" data-aos="fade-up" data-aos-delay="300"/>
       </div>
+      <h3>Todos los estilos bienvenidos.</h3>
+      <div>
+        <img src="img/trabajos/todos/1.jpg" data-aos="fade-right"/>
+        <img src="img/trabajos/todos/2.jpg" data-aos="fade-up" data-aos-delay="100"/>
+        <img src="img/trabajos/todos/3.jpg" data-aos="fade-up" data-aos-delay="200"/>
+        <img src="img/trabajos/todos/4.jpg" data-aos="fade-up" data-aos-delay="300"/>
+      </div>
+      <div>
+        <img src="img/trabajos/todos/5.jpg" data-aos="fade-up" data-aos-delay="400"/>
+        <img src="img/trabajos/todos/6.jpg" data-aos="fade-up" data-aos-delay="500"/>
+        <img src="img/trabajos/todos/7.jpg" data-aos="fade-up" data-aos-delay="600"/>
+        <img src="img/trabajos/todos/8.jpg" data-aos="fade-up" data-aos-delay="700"/>
+      </div>
+      <div>
+        <img src="img/trabajos/todos/9.jpg" data-aos="fade-up" data-aos-delay="800"/>
+        <img src="img/trabajos/todos/10.jpg" data-aos="fade-up" data-aos-delay="900"/>
+        <img src="img/trabajos/todos/11.jpg" data-aos="fade-up" data-aos-delay="1000"/>
+        <img src="img/trabajos/todos/12.jpg" data-aos="fade-up" data-aos-delay="1100"/>
+      </div>
     </div>
   </div>
 </section>

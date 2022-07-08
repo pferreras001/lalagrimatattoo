@@ -1,10 +1,11 @@
 .home{
-  background: url('/img/home/background-s.jpg') no-repeat,white;
-  background-size:cover;
+  background: url('/img/home/background-s.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .home__container{
-  margin: 350px auto 220px auto;
+  margin: 300px auto 220px auto;
   text-align: center;
 }
 
@@ -30,12 +31,13 @@
   
 .home{
   background: url('/img/home/background.jpg') no-repeat,white;
-  background-size:cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .home__container div{
   font-size: 28px;
-  text-align: center;
+  text-align: justify;
 }
 
 }

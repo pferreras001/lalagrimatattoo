@@ -142,12 +142,13 @@
   }
 }
 .home {
-  background: url("/img/home/background-s.jpg") no-repeat, white;
-  background-size: cover;
+  background: url("/img/home/background-s.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .home__container {
-  margin: 350px auto 220px auto;
+  margin: 300px auto 220px auto;
   text-align: center;
 }
 
@@ -172,12 +173,13 @@
 @media only screen and (min-width: 768px) {
   .home {
     background: url("/img/home/background.jpg") no-repeat, white;
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
   }
 
   .home__container div {
     font-size: 28px;
-    text-align: center;
+    text-align: justify;
   }
 }
 .trabajos {
@@ -191,7 +193,7 @@
 }
 
 .trabajos__images {
-  margin-top: 100px;
+  margin-top: 200px;
 }
 
 .trabajos__images h3 {
@@ -227,6 +229,7 @@
 }
 @media only screen and (min-width: 1025px) {
   .trabajos__images img {
+    flex: 1 0 21%;
     height: 250px;
   }
 
@@ -234,6 +237,10 @@
     margin-left: 55px;
   }
 }
+.artistas__container {
+  margin-bottom: 100px;
+}
+
 .artistas h1 {
   align: right;
 }
@@ -403,6 +410,12 @@
   text-align: center;
 }
 
+.footer__left ul .icon {
+  margin-top: 20px;
+  height: 40px;
+  fill: white;
+}
+
 .footer__center {
   text-align: center;
 }
@@ -413,12 +426,6 @@
 
 .footer ul {
   padding: 0;
-}
-
-.footer__center ul .icon {
-  margin-top: 20px;
-  height: 40px;
-  fill: white;
 }
 
 .footer__brand {
