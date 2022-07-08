@@ -1,5 +1,6 @@
 .contacto{
   background-color: $ocre;
+  padding-bottom:0;
 }
 
 .contacto__whatsapp{
@@ -60,6 +61,7 @@
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
   height: 500px;
+  margin-bottom: -7px;
   width:100%;
 }
 

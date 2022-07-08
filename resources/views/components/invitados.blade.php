@@ -1,4 +1,4 @@
-<section class="section invitados">
+<section data-aos="fade-left" class="section invitados">
   <div class="invitados__container">
     <div class="invitados__left">
       <img src="img/invitados/background.png">

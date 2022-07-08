@@ -18,13 +18,18 @@
 @import 'components/artistas';
 @import 'components/invitados';
 @import 'components/contacto';
+@import 'components/despedida';
 @import 'components/footer';
 
+html{
+  scroll-behavior: smooth;
+}
 
 body{
   background: black;
   color: white;
   font-family: $font-corporative;
+  max-width:100vw;
 }
 
 section{

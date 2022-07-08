@@ -7,5 +7,6 @@
 <x-artistas/>
 <x-invitados/>
 <x-contacto/>
+<x-despedida/>
 
 @endsection

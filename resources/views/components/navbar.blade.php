@@ -7,9 +7,9 @@
     <nav>
       <ul>
         <li><a href="">LA LÁGRIMA</a></li>
-        <li><a href="">TRABAJOS</a></li>
-        <li><a href="">ARTISTAS</a></li>
-        <li><a href="">CONTACTO</a></li>
+        <li><a href="#trabajos">TRABAJOS</a></li>
+        <li><a href="#artistas">ARTISTAS</a></li>
+        <li><a href="#contacto">CONTACTO</a></li>
       </ul>
     </nav>
   </div>
@@ -29,9 +29,9 @@
     <nav>
       <ul>
         <li><a href="">LA LÁGRIMA</a></li>
-        <li><a href="">TRABAJOS</a></li>
-        <li><a href="">ARTISTAS</a></li>
-        <li><a href="">CONTACTO</a></li>
+        <li><a href="#trabajos">TRABAJOS</a></li>
+        <li><a href="#artistas">ARTISTAS</a></li>
+        <li><a href="#contacto">CONTACTO</a></li>
       </ul>
     </nav>
   </div>

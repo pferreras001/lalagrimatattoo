@@ -1,4 +1,4 @@
-<section class="section artistas">
+<section class="section artistas" id="artistas">
   <div class="container artistas__container">
     <h1 align="right">artistas.</h1>
     <div class="artistas__profiles">

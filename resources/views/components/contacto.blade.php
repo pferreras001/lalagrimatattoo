@@ -1,4 +1,4 @@
-<section class="section contacto">
+<section class="section contacto" id="contacto">
   <div class="container contacto__container">
     <h1 class="title">contacto.</h1>
     <div class="contacto__whatsapp"><a><span>Whatsaspp </span><span>+34 666 635 776</span></a></div>

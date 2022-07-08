@@ -1,4 +1,4 @@
-<section class="section trabajos">
+<section class="section trabajos" id="trabajos">
   <div class="container trbajos__container" data-aos="fade-up">
     <h1 class="title">trabajos.</h1>
     <div class="trabajos__images">
