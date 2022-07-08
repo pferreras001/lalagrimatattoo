@@ -319,6 +319,45 @@
     transform: translateX(25%);
   }
 }
+.invitados {
+  padding-bottom: 0;
+}
+
+.invitados__container {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.invitados__left, .invitados__right {
+  width: 100%;
+}
+
+.invitados__right {
+  height: 400px;
+}
+
+.invitados__left img {
+  width: 100%;
+}
+
+.invitados__right {
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .invitados__container {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .invitados__left, .invitados__right {
+    width: 50%;
+  }
+}
 .contacto {
   background-color: #B4923E;
 }
