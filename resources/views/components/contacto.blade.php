@@ -1,7 +1,7 @@
 <section class="section contacto" id="contacto">
   <div class="container contacto__container">
     <h1 class="title">contacto.</h1>
-    <div class="contacto__whatsapp"><a><span>Whatsaspp </span><span>+34 666 635 776</span></a></div>
+    <div class="contacto__whatsapp"><a href="https://wa.me/34666635776" target="_blank"><span>Whatsaspp </span><span>+34 666 635 776</span></a></div>
     <div class="contacto__form">
       <div data-aos="fade-right" class="contacto__form__left">
         <form method="POST" action="{{route('contacto')}}">
@@ -16,7 +16,7 @@
         Pregúntanos lo que quieras<br>
         ¡Te responderemos lo antes posible!<br><br>
 
-        <a>info@lalagrimatattoo.com</a>
+        <a href="mailto:info@lalagrimatattoo.com">info@lalagrimatattoo.com</a>
       </div>
     </div>
   </div>

@@ -1,4 +1,4 @@
-<section class="section despedida">
+<section data-aos="fade-up" class="section despedida">
   <div class="despedida__container">
     <div class="despedida__left">
       Si quieres llevarte un buen recuerdo para toda la vida, pásate a conocernos y a pincharte. Al

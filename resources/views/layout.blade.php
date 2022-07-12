@@ -2,6 +2,9 @@
 <html lang="{{ app()->getLocale() }}">
 <head>
   
+  <title>La Lágrima Tattoo</title>
+  <link rel="icon" type="image/x-icon" href="/img/icon.png">
+
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
