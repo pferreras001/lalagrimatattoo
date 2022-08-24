@@ -167,8 +167,10 @@
 
 .home__container div {
   font-size: 1.5rem;
+  margin: auto;
   margin-top: 110px;
   text-align: justify;
+  width: 100%;
 }
 
 @media only screen and (min-width: 768px) {
@@ -180,8 +182,11 @@
   }
 
   .home__container div {
-    font-size: 28px;
+    font-size: 20px;
+    margin: auto;
+    margin-top: 110px;
     text-align: justify;
+    width: 60%;
   }
 }
 .trabajos {
@@ -469,6 +474,7 @@
   font-size: 30px;
   justify-content: center;
   align-items: center;
+  padding: 0 0;
   text-align: center;
 }
 
@@ -483,7 +489,9 @@
   }
 
   .despedida__left {
+    font-size: 20px;
     height: auto;
+    padding: 0 300px;
   }
 }
 .footer {

@@ -1,6 +1,6 @@
 <section class="section trabajos" id="trabajos">
   <div class="container trbajos__container" data-aos="fade-up">
-    <h1 class="title">trabajos.</h1>
+    <h1 class="title">TRABAJOS</h1>
     <div class="trabajos__images">
       <h3>Manu Collado.</h3>
       <div>
@@ -44,7 +44,7 @@
         <img src="img/trabajos/marek/3.jpg" data-aos="fade-up" data-aos-delay="200"/>
         <img src="img/trabajos/marek/4.jpg" data-aos="fade-up" data-aos-delay="300"/>
       </div>
-      <h3>Todos los estilos bienvenidos.</h3>
+      <h3>TODOS LOS ESTILOS BIENVENIDOS</h3>
       <div>
         <img src="img/trabajos/todos/1.jpg" data-aos="fade-right"/>
         <img src="img/trabajos/todos/2.jpg" data-aos="fade-up" data-aos-delay="100"/>

@@ -24,8 +24,10 @@
 
 .home__container div{
   font-size: 1.5rem;
+  margin: auto;
   margin-top: 110px;
   text-align: justify;
+  width: 100%;
 }
 
 @media #{$breakpoints-medium} {
@@ -38,8 +40,11 @@
 }
 
 .home__container div{
-  font-size: 28px;
+  font-size: 20px;
+  margin: auto;
+  margin-top:110px;
   text-align: justify;
+  width: 60%;
 }
 
 }

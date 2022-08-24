@@ -1,6 +1,6 @@
 <section class="section artistas" id="artistas">
   <div class="container artistas__container">
-    <h1 align="right">artistas.</h1>
+    <h1 align="right">ARTISTAS</h1>
     <div class="artistas__profiles">
       <a href="https://www.instagram.com/manucolladottt/" target="_blank">
         <div class="artistas__profile">
