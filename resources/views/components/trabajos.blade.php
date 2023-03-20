@@ -16,12 +16,19 @@
         <img src="img/trabajos/reichel/3.jpg" data-aos="fade-up" data-aos-delay="200"/>
         <img src="img/trabajos/reichel/4.jpg" data-aos="fade-up" data-aos-delay="300"/>
       </div>
-      <h3>Noemi Millet.</h3>
+      <h3>Miguel Orcal.</h3>
       <div>
-        <img src="img/trabajos/noe/1.jpg" data-aos="fade-right"/>
-        <img src="img/trabajos/noe/2.jpg" data-aos="fade-up" data-aos-delay="100"/>
-        <img src="img/trabajos/noe/3.jpg" data-aos="fade-up" data-aos-delay="200"/>
-        <img src="img/trabajos/noe/4.jpg" data-aos="fade-up" data-aos-delay="300"/>
+        <img src="img/trabajos/orcal/1.jpg" data-aos="fade-right"/>
+        <img src="img/trabajos/orcal/2.jpg" data-aos="fade-up" data-aos-delay="100"/>
+        <img src="img/trabajos/orcal/3.jpg" data-aos="fade-up" data-aos-delay="200"/>
+        <img src="img/trabajos/orcal/4.jpg" data-aos="fade-up" data-aos-delay="300"/>
+      </div>      
+      <h3>Sara Anaut.</h3>
+      <div>
+        <img src="img/trabajos/sara/1.jpg" data-aos="fade-right"/>
+        <img src="img/trabajos/sara/2.jpg" data-aos="fade-up" data-aos-delay="100"/>
+        <img src="img/trabajos/sara/3.jpg" data-aos="fade-up" data-aos-delay="200"/>
+        <img src="img/trabajos/sara/4.jpg" data-aos="fade-up" data-aos-delay="300"/>
       </div>
       <h3>Domi Fuentes.</h3>
       <div>
@@ -30,19 +37,12 @@
         <img src="img/trabajos/domi/3.jpg" data-aos="fade-up" data-aos-delay="200"/>
         <img src="img/trabajos/domi/4.jpg" data-aos="fade-up" data-aos-delay="300"/>
       </div>
-      <h3>Sara Anaut.</h3>
+      <h3>Oihane Arrondo.</h3>
       <div>
-        <img src="img/trabajos/sara/1.jpg" data-aos="fade-right"/>
-        <img src="img/trabajos/sara/2.jpg" data-aos="fade-up" data-aos-delay="100"/>
-        <img src="img/trabajos/sara/3.jpg" data-aos="fade-up" data-aos-delay="200"/>
-        <img src="img/trabajos/sara/4.jpg" data-aos="fade-up" data-aos-delay="300"/>
-      </div>
-      <h3>Marek Koprowski.</h3>
-      <div>
-        <img src="img/trabajos/marek/1.jpg" data-aos="fade-right"/>
-        <img src="img/trabajos/marek/2.jpg" data-aos="fade-up" data-aos-delay="100"/>
-        <img src="img/trabajos/marek/3.jpg" data-aos="fade-up" data-aos-delay="200"/>
-        <img src="img/trabajos/marek/4.jpg" data-aos="fade-up" data-aos-delay="300"/>
+        <img src="img/trabajos/oihane/1.jpg" data-aos="fade-right"/>
+        <img src="img/trabajos/oihane/2.jpg" data-aos="fade-up" data-aos-delay="100"/>
+        <img src="img/trabajos/oihane/3.jpg" data-aos="fade-up" data-aos-delay="200"/>
+        <img src="img/trabajos/oihane/4.jpg" data-aos="fade-up" data-aos-delay="300"/>
       </div>
       <h3>TODOS LOS ESTILOS BIENVENIDOS</h3>
       <div>

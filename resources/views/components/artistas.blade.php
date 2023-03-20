@@ -26,27 +26,15 @@
           </div>
         </div>
       </a>
-      <a href="https://www.instagram.com/noetattoos/" target="_blank">
+      <a href="https://www.instagram.com/miguel_orcal/" target="_blank">
         <div class="artistas__profile">
           <ul class="artistas__info">
-            <li>Noemi Millet.</li>
-            <li>geometrías, ornamental y neotribal.</li>
-            <li>@noetattoos</li>
+            <li>Miguel Orcal.</li>
+            <li>dotwork y fineline.</li>
+            <li>@miguel_orcal</li>
           </ul>
           <div>
-            <img class="artistas__img " src="img/artistas/noe.jpg"/>
-          </div>
-        </div>
-      </a>
-      <a href="https://www.instagram.com/domifuentes.tattoo/" target="_blank">
-        <div class="artistas__profile">
-          <ul class="artistas__info">
-            <li>Domi Fuentes.</li>
-            <li>blackwork y fineline.</li>
-            <li>@domifuentes.tattoo</li>
-          </ul>
-          <div>
-            <img class="artistas__img " src="img/artistas/domi.jpg"/>
+            <img class="artistas__img " src="img/artistas/orcal.jpg"/>
           </div>
         </div>
       </a>
@@ -62,15 +50,27 @@
           </div>
         </div>
       </a>
-      <a href="https://www.instagram.com/marek.koprowski.tattoo/" target="_blank">
+      <a href="https://www.instagram.com/domifuentes.tattoo/" target="_blank">
         <div class="artistas__profile">
           <ul class="artistas__info">
-            <li>Marek Koprowski.</li>
-            <li>ornamental y tradicional.</li>
-            <li>@marek.koprowski.tattoo</li>
+            <li>Domi Fuentes.</li>
+            <li>blackwork y fineline.</li>
+            <li>@domifuentes.tattoo</li>
           </ul>
           <div>
-            <img class="artistas__img " src="img/artistas/marek.jpg"/>
+            <img class="artistas__img " src="img/artistas/domi.jpg"/>
+          </div>
+        </div>
+      </a>
+      <a href="https://www.instagram.com/labaga_/" target="_blank">
+        <div class="artistas__profile">
+          <ul class="artistas__info">
+            <li>Oihane Arrondo.</li>
+            <li>aprendiz, tradicional y cartoon.</li>
+            <li>@labaga_</li>
+          </ul>
+          <div>
+            <img class="artistas__img " src="img/artistas/oihane.jpg"/>
           </div>
         </div>
       </a>

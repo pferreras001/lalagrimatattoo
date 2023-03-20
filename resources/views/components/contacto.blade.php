@@ -1,7 +1,7 @@
 <section class="section contacto" id="contacto">
   <div class="container contacto__container">
     <h1 class="title">CONTACTO</h1>
-    <div class="contacto__whatsapp"><a href="https://wa.me/34666635776" target="_blank"><span>Whatsaspp </span><span>+34 666 635 776</span></a></div>
+    <div class="contacto__whatsapp"><a href="https://wa.me/34666635776" target="_blank"><span>WhatsAspp </span><span>+34 666 635 776</span></a></div>
     <div class="contacto__form">
       <div data-aos="fade-right" class="contacto__form__left">
         <form method="POST" action="{{route('contacto')}}">
